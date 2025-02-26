@@ -1,0 +1,73 @@
+[
+    {
+      "ProductID": 1,
+      "ProductName": "Laptop",
+      "ProductCategory": "Electronics",
+      "ProductPrice": 800,
+      "StockQuantity": 15
+    },
+    {
+      "ProductID": 2,
+      "ProductName": "Smartphone",
+      "ProductCategory": "Electronics",
+      "ProductPrice": 500,
+      "StockQuantity": 8
+    },
+    {
+      "ProductID": 3,
+      "ProductName": "Desk Chair",
+      "ProductCategory": "Furniture",
+      "ProductPrice": 120,
+      "StockQuantity": 25
+    },
+    {
+      "ProductID": 4,
+      "ProductName": "Notebook",
+      "ProductCategory": "Stationery",
+      "ProductPrice": 5,
+      "StockQuantity": 50
+    },
+    {
+      "ProductID": 5,
+      "ProductName": "Pen",
+      "ProductCategory": "Stationery",
+      "ProductPrice": 2,
+      "StockQuantity": 5
+    },
+    {
+      "ProductID": 6,
+      "ProductName": "Headphones",
+      "ProductCategory": "Electronics",
+      "ProductPrice": 100,
+      "StockQuantity": 12
+    },
+    {
+      "ProductID": 7,
+      "ProductName": "Keyboard",
+      "ProductCategory": "Electronics",
+      "ProductPrice": 50,
+      "StockQuantity": 30
+    },
+    {
+      "ProductID": 8,
+      "ProductName": "Mouse",
+      "ProductCategory": "Electronics",
+      "ProductPrice": 20,
+      "StockQuantity": 3
+    },
+    {
+      "ProductID": 9,
+      "ProductName": "Water Bottle",
+      "ProductCategory": "Kitchen",
+      "ProductPrice": 15,
+      "StockQuantity": 18
+    },
+    {
+      "ProductID": 10,
+      "ProductName": "Backpack",
+      "ProductCategory": "Accessories",
+      "ProductPrice": 40,
+      "StockQuantity": 9
+    }
+  ]
+  
